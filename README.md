@@ -3,10 +3,10 @@ Repo for machine learning capstone project
 
 Below are important links:
 
-https://drive.google.com/drive/folders/1i1f5-kf1TV0dakD-JSVUHz2pZ_BnM8S9?usp=sharing
-https://drive.google.com/drive/folders/1jMviLQm2i8n-3nNhV2JQHhYlS9VoRBJj?usp=sharing
+- https://drive.google.com/drive/folders/1i1f5-kf1TV0dakD-JSVUHz2pZ_BnM8S9?usp=sharing
+- https://drive.google.com/drive/folders/1jMviLQm2i8n-3nNhV2JQHhYlS9VoRBJj?usp=sharing
 
-https://www.meisterlabs.com/jobs/machine-learning-engineer/
+- https://www.meisterlabs.com/jobs/machine-learning-engineer/
 
 
 C:\Users\chand\anaconda3\lib\site-packages\matplotlib\cbook\__init__.py
@@ -28,11 +28,11 @@ moment_feature
 
 
 
-https://www.kaggle.com/kylingu/talkingdata-learning
-https://www.kaggle.com/c/talkingdata-mobile-user-demographics/data?select=label_categories.csv.zip
-https://medium.com/@rishabhbhatia315/talking-data-mobile-user-demographics-prediction-f0173a0577d2
-https://github.com/cuckooinc/TalkingData-Mobile-User-Demographics/blob/master/All%20models.ipynb
-https://github.com/cuckooinc/TalkingData-Mobile-User-Demographics/blob/master/EDA_TALKING_DATA.ipynb
-https://www.kaggle.com/c/talkingdata-mobile-user-demographics/code?competitionId=5340&sortBy=voteCount&language=Python
-https://www.kaggle.com/dvasyukova/brand-and-model-based-benchmarks
-https://www.kaggle.com/beyondbeneath/geolocation-visualisations
+- https://www.kaggle.com/kylingu/talkingdata-learning
+- https://www.kaggle.com/c/talkingdata-mobile-user-demographics/data?select=label_categories.csv.zip
+- https://medium.com/@rishabhbhatia315/talking-data-mobile-user-demographics-prediction-f0173a0577d2
+- https://github.com/cuckooinc/TalkingData-Mobile-User-Demographics/blob/master/All%20models.ipynb
+- https://github.com/cuckooinc/TalkingData-Mobile-User-Demographics/blob/master/EDA_TALKING_DATA.ipynb
+- https://www.kaggle.com/c/talkingdata-mobile-user-demographics/code?competitionId=5340&sortBy=voteCount&language=Python
+- https://www.kaggle.com/dvasyukova/brand-and-model-based-benchmarks
+- https://www.kaggle.com/beyondbeneath/geolocation-visualisations
