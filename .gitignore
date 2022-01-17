@@ -1,2 +1,7 @@
 */*.csv
 */.ipynb_checkpoints/*
+*/__pycache__
+*/.ipynb_checkpoints
+6_Deployment/Application_Code/.ipynb_checkpoints/*
+6_Deployment/Application_Code/__pycache__/*
+6_Deployment/Application_Code/__pycache__/data_preparation.cpython-39.pyc
