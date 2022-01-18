@@ -1,6 +1,8 @@
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
+'''Initial data preperation i.e to get the smaple of 50 records from test file'''
+
 test_data = pd.read_csv("scenario1_test.csv")
 test_data = test_data.dropna()
 test_sample = test_data.sample(50)

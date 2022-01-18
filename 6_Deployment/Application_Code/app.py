@@ -4,6 +4,8 @@ from flask import Flask, request, render_template, jsonify
 import logic
 from decimal import Decimal
 
+'''This is the flask file to route application and display model'''
+
 app = Flask(__name__)
 
 @app.route('/')

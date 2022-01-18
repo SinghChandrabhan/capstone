@@ -1,3 +1,5 @@
+#File used to create docker images
+
 # Create the base image
 FROM python:3.7-slim
 
