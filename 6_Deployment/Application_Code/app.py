@@ -52,7 +52,7 @@ def gender_campaign():
         elif j.compare(min_prob) == -1 or j.compare(min_prob) == 0:
             campaign12.append(device_id[i])
     data = tuple(logic.merge2list(campaign12,campaign3))
-    table_headings = ("Campaign 1(Females)","Campaign 2(Females)", "Campaign 3(Males")
+    table_headings = ("Campaign 1(Females)","Campaign 2(Females)", "Campaign 3(Males)")
     return render_template('index.html', headings= table_headings, data = data)
 
 if __name__ == "__main__":
