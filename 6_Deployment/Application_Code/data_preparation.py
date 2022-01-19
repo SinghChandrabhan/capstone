@@ -3,6 +3,9 @@ from sklearn.preprocessing import StandardScaler
 
 '''Initial data preperation i.e to get the smaple of 50 records from test file'''
 
+''' scenario1_test.csv will generate at end of model building and be placed in in Application code.
+Alternately it can also be downloaded from S3: https://upgradcapstone.s3.amazonaws.com/test-data/scenario1_test.csv'''
+
 test_data = pd.read_csv("scenario1_test.csv")
 test_data = test_data.dropna()
 test_sample = test_data.sample(50)
